@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = Μπάμπης
+title = PyYTDownloader
 
 # (str) Package name
 package.name = PYTDownloader
